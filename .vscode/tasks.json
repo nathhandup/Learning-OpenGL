@@ -6,7 +6,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "src/examples/index-buffer.cpp",
+        "src/examples/main.cpp",
         "src/glad.c",
         "-Iinclude",
         "-Llib",
