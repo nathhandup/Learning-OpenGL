@@ -1,0 +1,3 @@
+This folder contains multiple OpenGL examples worked through by myself.
+
+Feel free to use them as reference for your own projects!
